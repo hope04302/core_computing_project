@@ -21,7 +21,7 @@ def sidebar_profile(github_nickname="hope04302"):
     st.sidebar.image(github_image_url)
     st.sidebar.write(f"## Manager:")
     st.sidebar.write(f"## {github_nickname} ({github_name})")
-    st.sidebar.page_link(label="Go to Github Page", page=github_url, icon="➡️")
+    # st.sidebar.page_link(label="Go to Github Page", page=github_url, icon="➡️")
 
 
 st.sidebar.title("한결같은 자료공장")

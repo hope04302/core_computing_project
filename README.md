@@ -10,11 +10,12 @@
 수업에서 배운 자료구조와 알고리즘을 기반으로 자신의 전공에 어떻게 응용될 수 있는지 혹은 생활에서 어떻게 활용될 수 있는지를 탐구하고 프로그래밍 문제를 생성하여 제출한다.
 
 ## 주제 선정
-인터넷 서칭과 GPT-4o를 활용하여 자료구조와 관련된 주제 목록을 작성함.
+인터넷 서칭과 GPT-4o를 활용하여 자료구조와 관련된 주제 목록을 작성하였다.
 - GNN - graph
 - Markov Chain - graph
 - Graph Database - graph
 - Subway Route Recommendation - graph
+- Creating New Programming Language - stack, queue
 
 ## Reference
 - 한상미, 서울대학교 강의계획서 "컴퓨팅 핵심: 컴퓨터로 생각하기", Retrieved at Febuary 25, 2025.
