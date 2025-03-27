@@ -27,7 +27,7 @@ def sidebar_profile(github_nickname="hope04302"):
 st.sidebar.title("한결같은 자료공장")
 sidebar_profile(github_nickname="hope04302")
 
-# pg = st.navigation({
-#     "Your Account": ["page1.py", "page2.py"]
-# })
-# pg.run()
+pg = st.navigation({
+    "Your Account": ["page1.py", "page2.py"]
+})
+pg.run()
