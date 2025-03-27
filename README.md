@@ -17,4 +17,4 @@
 - Subway Route Recommendation - graph
 
 ## Reference
-- 한상미, 서울대학교 강의계획서 "컴퓨팅 핵심: 컴퓨터로 생각하기", Retrieved at Febuary 25 2025.
+- 한상미, 서울대학교 강의계획서 "컴퓨팅 핵심: 컴퓨터로 생각하기", Retrieved at Febuary 25, 2025.
